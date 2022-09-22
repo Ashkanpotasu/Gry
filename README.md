@@ -7,9 +7,10 @@ Strona, na której znajduje się lista gier na PS4/PS5, które mam na oku.
 [https://ashkanpotasu.github.io/GryNaKonsole/gry.html](https://ashkanpotasu.github.io/GryNaKonsole/gry.html)
 
 
+
 # Gry do ogrania/przejścia
 
-Lista gier, które jestem w posiadaniu, a zagrałem jedynie kilka godzin i porzuciłem lub wcale nie zainstalowałem.
+Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i porzuciłem lub wcale nie zainstalowałem.
 
 ```
 1. MONSTER HUNTER RISE
