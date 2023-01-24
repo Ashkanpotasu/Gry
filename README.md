@@ -40,4 +40,7 @@ Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i por
 25. Escape Simulator
 26. Have a Nice Death
 27. Hero Siege
+28. Mass Effect (2007)
+29. Mass Effect 2 (2010)
+30. Shadow Warrior 2
 ```
