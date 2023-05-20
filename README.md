@@ -10,7 +10,7 @@ Strona, na której znajduje się lista gier na PS4/PS5, które mam na oku.
 
 # Gry do ogrania/przejścia
 
-Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i porzuciłem lub wcale nie zainstalowałem.
+Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i porzuciłem lub wcale nie zainstalowałem **PC**.
 
 ```
 1. MONSTER HUNTER RISE
@@ -22,7 +22,7 @@ Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i por
 7. Sekiro: Shadows Die Twice
 8. Skul: The Hero Slayer
 9. Sniper Ghost Warrior Contracts
-10. Totally Accurate Battle Simulator
+10. Disco Elysium
 11. Unravel
 12. Unravel Two
 13. Untitled Goose Game
@@ -43,4 +43,14 @@ Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i por
 28. Mass Effect (2007)
 29. Mass Effect 2 (2010)
 30. Shadow Warrior 2
+31. We Were Here
+32. We Were Here Too
+33. We Were Here Together
+34. We Were Here Forever
+35. Half-Life
+36. Half-Life: Blue Shift
+37. Half-Life: Opposing Force
+38. Half-Life 2
+39. Half-Life 2: Episode One
+40. Half-Life 2: Episode Two
 ```
