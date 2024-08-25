@@ -26,7 +26,7 @@ Lista gier, których jestem w posiadaniu, a zagrałem jedynie kilka godzin i por
 11. Unravel
 12. Unravel Two
 13. Untitled Goose Game
-14. It Takes Two
+14. ~~It Takes Two~~
 15. Webbed
 16. Baba Is You
 17. Card Shark
